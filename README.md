@@ -1,7 +1,6 @@
 🎵 Playlist.com – Setup Instructions
 
-Welcome! If you're seeing this message, you've successfully downloaded **Playlist.com**. Follow the instructions below to get started.
-
+Welcome Please do note that this version works for windows it most probibly works for linux (as I have only tested it with an AI) but it does not support mac but if you are on windows or linux the instructions are below!
 ---
 
 🟢 First-Time Users
