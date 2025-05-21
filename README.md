@@ -7,6 +7,8 @@ Welcome Please do note that this version works for windows it most probably work
 
 If this is your first time using the app:
 
+unzip the file first then...
+
 1. Run the setup.bat file.
 2. Wait until the setup process is fully completed.
 3. Once finished, run the "Instant audio.bat" file to launch the app.
