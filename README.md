@@ -1,4 +1,4 @@
-🎵 Playlist.com – Setup Instructions
+🎵 Instant audio – Setup Instructions
 
 Welcome Please do note that this version works for windows it most probably works for linux (as I have only tested it with an AI) but it does not support mac but if you are on windows or linux the instructions are below!
 ---
